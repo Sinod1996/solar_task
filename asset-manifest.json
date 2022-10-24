@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/solar_task/static/css/main.e03b4583.css",
+    "main.css": "/solar_task/static/css/main.0440a566.css",
     "main.js": "/solar_task/static/js/main.dcfc6263.js",
     "static/js/787.1d90adcc.chunk.js": "/solar_task/static/js/787.1d90adcc.chunk.js",
-    "static/media/img2.webp": "/solar_task/static/media/img2.aff671fc2cbe1ee5bbad.webp",
-    "static/media/img1.webp": "/solar_task/static/media/img1.e8568d31db5234ed9ce4.webp",
+    "static/media/img1.jpg": "/solar_task/static/media/img1.474d01136a00f8188915.jpg",
     "static/media/solar.jpeg": "/solar_task/static/media/solar.f5713d2150386d1d4669.jpeg",
+    "static/media/img2.jpg": "/solar_task/static/media/img2.e31e094e5d94615692c2.jpg",
     "static/media/light.woff": "/solar_task/static/media/light.064077261f6a7f314fdd.woff",
     "static/media/bold.woff2": "/solar_task/static/media/bold.d56986b6b0700271250a.woff2",
     "static/media/revicons.eot": "/solar_task/static/media/revicons.a77de540a38981833f9e.eot",
@@ -18,12 +18,12 @@
     "index.html": "/solar_task/index.html",
     "static/media/icon3.svg": "/solar_task/static/media/icon3.bc4d3cd617ce5dad76352f61a10457b4.svg",
     "static/media/arrow.svg": "/solar_task/static/media/arrow.d220186bfa90db1e1c67fac5b255d649.svg",
-    "main.e03b4583.css.map": "/solar_task/static/css/main.e03b4583.css.map",
+    "main.0440a566.css.map": "/solar_task/static/css/main.0440a566.css.map",
     "main.dcfc6263.js.map": "/solar_task/static/js/main.dcfc6263.js.map",
     "787.1d90adcc.chunk.js.map": "/solar_task/static/js/787.1d90adcc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e03b4583.css",
+    "static/css/main.0440a566.css",
     "static/js/main.dcfc6263.js"
   ]
 }
