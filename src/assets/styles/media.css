@@ -1,0 +1,162 @@
+@media screen and (max-width:978px) {
+    .section1 {
+        background-size: cover;
+        background-position: 100% 100%;
+        margin: 0 auto;
+        text-align: center;
+
+    }
+
+    .section1 .design {
+        width: 70%;
+    }
+
+    .section1 .design h1 {
+        font-size: 40px;
+    }
+
+    nav {
+        width: 60%;
+    }
+    .logo_name {
+        padding-left: 100px;
+    }
+    
+}
+
+@media screen and (max-width:736px) {
+
+    .section1 .design {
+            width: 80%;
+        }
+    
+        .section1 .design h1 {
+            font-size: 32px;
+        }
+    nav {
+        width: 80%;
+    }
+
+    .logo_name {
+        padding-left: 0;
+    }
+
+}
+
+@media screen and (max-width:666px) {
+    .flex input {
+        width: 250px;
+    }
+
+    .flex #textarea {
+        width: 400px;
+    }
+
+}
+
+
+@media screen and (max-width:560px) {
+    .section1 .design {
+            width: 100%;
+        }
+    
+        .section1 .design h1 {
+            font-size: 40px;
+        }
+
+        .section3 .text_about {
+            padding-top: 70px;
+        }
+        .section3 .text_about h3 {
+            text-align: center;
+            font-size: 24px;
+        }
+        .section3 .text_about p {
+            text-align: center;
+            font-size: 16px;
+        }
+
+    .flex input {
+        width: 320px;
+    }
+    .flex #textarea {
+        width: 320px;
+    }
+
+    .flex {
+        flex-wrap: wrap;
+    }
+    .logo img {
+        margin: 0 auto;
+        text-align: center;
+    }
+    nav {
+        width: 100%;
+    }
+
+    .logo_name {
+       display: none;
+    }
+
+}
+
+@media screen and (max-width: 400px) {
+    .section1 .design {
+            width: 90%;
+            padding-top: 70px;
+        }
+    
+ .section1 .design h1 {
+            
+            line-height: 50px;
+            font-size: 40px;
+        }
+    .section2 p {
+        font-size: 20px;
+        text-align: center;
+        line-height: 90px;
+    }
+
+    .section3 .text_about {
+                      padding-top: 50px;
+                  }
+        
+     .section3 .text_about h3 {
+                      text-align: center;
+                      font-size: 30px;
+                  }
+        
+     .section3 .text_about p {
+                     line-height: 30px;
+                      text-align: center;
+                      font-size: 18px;
+                  }
+        
+    .logo {
+        width: 50%;
+        text-align: center;
+    }
+    nav ul li {
+        display: none;
+    }
+}
+
+
+@media screen and (max-width:320px) {
+   
+    
+    .logo img {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    nav {
+        width: 100%;
+    }
+
+    .logo_name {
+        display: none;
+    }
+
+}
+

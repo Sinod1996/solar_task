@@ -1,0 +1,93 @@
+@font-face {
+    font-family: 'light';
+    src: url(../fonts//light.woff);
+}
+
+.solar {
+    font-size: 20px;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    position: fixed;
+    background-color: rgba(255, 255, 255);
+    z-index: 1;
+    top: 0;
+    left: 0;
+}
+
+.logo {
+    width: 200px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.logo img {
+    display: block;
+    width: 100px;
+}
+
+nav {
+    width: 30%;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    letter-spacing: 2px;
+}
+
+li {
+    font-family: 'light';
+    list-style: none;
+    cursor: pointer;
+    font-weight: 300;
+    transition: .5s all;
+}
+
+li:hover {
+    color: #7ab5b9;
+}
+
+button {
+    padding: 12px 25px;
+    font-size: 17px;
+    background-color: #7ab5b9;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    transition: .5s all;
+}
+
+button:hover {
+    background-color: #010101;
+}
+.logo_name {
+    text-align: center;
+    padding-left: 200px;
+    cursor: pointer;
+}
+h2 {
+    font-family: 'light';
+    letter-spacing: 4px;
+    font-size: 30px;
+    
+}
+sup {
+    font-family: 'light';
+    color: #7ab5b9;
+    letter-spacing: 6px;
+    font-size: 40px;
+}
+
+.active {
+    color: #7ab5b9;
+}

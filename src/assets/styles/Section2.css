@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'light';
+    src: url(../fonts//light.woff);
+}
+.section2 {
+    width: 100%;
+    margin: 55px auto;
+    text-align: center;
+}
+
+.section2 h3 {
+    font-size: 26px;
+    font-family: 'light';
+    font-weight: 100;
+    color: rgba(5, 5, 5, .9);
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+.section2 p {
+    color: rgba(5, 5, 5, .5);
+    line-height: 25px;
+}
+
+.carousel {
+    margin-top: 70px;
+}
+
+.carousel p {
+    color: black !important;
+}

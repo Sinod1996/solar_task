@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'light';
+    src: url(../fonts//light.woff);
+}
+
+.footer {
+    background-color: #f3f3f3;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 55px;
+    text-align: center;
+}
+
+.footer h3 {
+    font-size: 26px;
+    font-family: 'light';
+    font-weight: 100;
+    color: rgba(5, 5, 5, .9);
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+
+.footer p {
+    color: rgba(5, 5, 5, .5);
+    line-height: 25px;
+}
+
+span {
+    color: red;
+}
+
+form {
+    margin-top: 80px;
+}
+
+form div {
+    margin: 15px;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+label {
+   font-family: 'light';
+    font-size: 14px;
+}
+
+input {
+    outline: none;
+    border-width: 0 0 2px;
+    width: 300px;
+    margin-top: 30px;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid rgba(5, 5, 5, .5);
+    box-sizing: border-box;
+}
+
+input:hover {
+    border-bottom: 1px solid rgba(5, 5, 5, 1);
+}
+
+input:focus {
+    border-bottom: 2px solid rgba(5, 5, 5, 1);
+}
+
+
+#textarea {
+    outline: none;
+    border-width: 0 0 2px;
+    resize: none;
+    width: 650px;
+    height: 120px;
+    border: none;
+    border-bottom: 1px solid rgba(5, 5, 5, .5);
+    background: transparent;
+}
+
+#textarea:focus {
+    border-bottom: 2px solid rgba(5, 5, 5, .9);
+}
+
+form button {
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+
+.footer_date {
+    width: 100%;
+    padding: 20px;
+    background-color: white;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'bold';
+    src: url(../fonts//bold.woff2);
+}
+
+.section1 {
+    background-image: url(../images//img1.webp);
+    background-position: 100%;
+    background-size: cover;
+    height: 500px;
+    margin-top: 101px;
+    z-index: 0;
+}
+
+.design {
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 150px;
+    text-align: center;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.design h1 {
+    color: white;
+    font-size: 48px;
+    margin-bottom: 40px;
+    font-family: "bold";
+    font-weight: 590;
+}
+
